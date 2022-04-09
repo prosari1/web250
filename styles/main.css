@@ -74,6 +74,12 @@ p {
   margin-left: 12px;
 }
 
+.tag-line {
+  font-family: "Kaushan Script";
+  float: right;
+  margin-top: 0px;
+}
+
 /* Main Navigation */
 
 nav {
