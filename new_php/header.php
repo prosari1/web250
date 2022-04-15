@@ -26,6 +26,9 @@
         <li>
           <a href="?p=brand.php">Brand</a>
         </li>
+        <li>
+          <a href="?p=carShop/samsusedcars.html">Sams Car</a>
+        </li>
       </ul>
     </div>
   </nav>
