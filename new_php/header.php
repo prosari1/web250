@@ -32,6 +32,9 @@
         <li>
           <a href="?p=onetwoform.php">One Page Form</a>
         </li>
+        <li>
+          <a href="?p=everythingform.php">Everything Form</a>
+        </li>
       </ul>
     </div>
   </nav>
