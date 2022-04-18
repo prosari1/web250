@@ -14,6 +14,11 @@
     <div id="nav-bar" class="row">
       <ul class="main-nav">
         <li>
+          <a href="?p=loginform.php">Login</a>
+        </li>
+      </ul>
+      <ul class="main-nav">
+        <li>
           <a href="?p=home.php">Home</a>
         </li>
         <li>
